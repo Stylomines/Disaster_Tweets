@@ -3,7 +3,7 @@ Bloc n°4 : Analyse prédictive de données non-structurées par l'intelligence 
 
 
 * email : sylvain_mothes@yahoo.fr
-* video link : https://share.vidyard.com/watch/PzySfnRhMuUB6Pm4WTckcE?
+
 
 * notebook : disaster_tweets.ipynb
 * data : train.csv, test.csv, submission.csv
